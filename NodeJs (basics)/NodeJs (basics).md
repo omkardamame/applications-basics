@@ -36,17 +36,17 @@ To install node package globally use following command,
 npm install file -g
 ```
 
-![[nodejs_pkg.png]]
+![[nodejs_pkg.png]](https://github.com/omkardamame/applications-basics/blob/main/NodeJs%20(basics)/nodejs_pkg.png)
 
 Also, there is a file called `package.json` which contains metadata for that package. This is a useful file for troubleshooting issues with dependency errors.
 
-![[nodejs_package_json.png]]
+![[nodejs_package_json.png]](https://github.com/omkardamame/applications-basics/blob/main/NodeJs%20(basics)/nodejs_package_json.png)
 
 ## Command modules
 
 Only built-in modules are installed along with NPM.
 
-![[nodejs_modules.png]]
+![[nodejs_modules.png]](https://github.com/omkardamame/applications-basics/blob/main/NodeJs%20(basics)/nodejs_modules.png)
 
 Built-In modules path,
 
@@ -64,4 +64,4 @@ External modules path
 
 `package.json` file consist of dependencies required for the application.
 
-![[nodejs_dependencies.png]]
+![[nodejs_dependencies.png]](https://github.com/omkardamame/applications-basics/blob/main/NodeJs%20(basics)/nodejs_dependencies.png)
