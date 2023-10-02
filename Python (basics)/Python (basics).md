@@ -45,11 +45,11 @@ python3 test.py
 
 These are the commands to see versions,
 
-![[python_version.png]]
+![[python_version.png]](https://github.com/omkardamame/applications-basics/blob/main/Python%20(basics)/python_version.png)
 
 ## Python file system
 
-![[python_file_system.png]]
+![[python_file_system.png]](https://github.com/omkardamame/applications-basics/blob/main/Python%20(basics)/python_file_system.png)
 
 To install a package, this is an example command,
 
@@ -63,7 +63,7 @@ This command shows package metadata,
 pip show flask
 ```
 
-![[python_pip.png]]
+![[python_pip.png]](https://github.com/omkardamame/applications-basics/blob/main/Python%20(basics)/python_pip.png)
 
 ## Requirements file
 
