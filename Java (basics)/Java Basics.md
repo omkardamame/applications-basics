@@ -15,7 +15,7 @@ export PATH=$PATH:/opt/jdk-20/bin
 
 Java runs its class file in a virtual machine. The class file is in intermediary byte code. This JVM is destroyed after successful execution of the code.
 
-![[java_jvm.png]]
+![[java_jvm.png]](https://github.com/omkardamame/applications-basics/blob/main/Java%20(basics)/java_jvm.png)
 
 
 ## Packaging in Java: 
@@ -36,7 +36,7 @@ To run the jar file you should use following command format,
 java -jar MyApp.jar
 ```
 
-![[java_package.png]]
+![[java_package.png]](https://github.com/omkardamame/applications-basics/blob/main/Java%20(basics)/java_package.png)
 
 ## Document
 
@@ -52,13 +52,13 @@ javadoc -d doc MyClass.java
 cd /opt/app/; javadoc -d doc MyClass.java
 ```
 
-![[java_doc.png]]
+![[java_doc.png]](https://github.com/omkardamame/applications-basics/blob/main/Java%20(basics)/java_doc.png)
 
 ## Build Process
 
 This is the basic build process of building a java file. This can be much more complex depending upon application and project. This is just a simplified version.
 
-![[java_build_process.png]]
+![[java_build_process.png]](https://github.com/omkardamame/applications-basics/blob/main/Java%20(basics)/java_build_process.png)
 
 This process can be done with ease using build tools such as,
 
@@ -70,7 +70,7 @@ These tools use configuration files where you can specify the steps that you wan
 
 This is a simple example for ANT tool's build file which uses XML.
 
-![[java_ant.png]]
+![[java_ant.png]](https://github.com/omkardamame/applications-basics/blob/main/Java%20(basics)/java_ant.png)
 
 To install Apache ANT tool, use following command (CentOS/ RHEL),
 
